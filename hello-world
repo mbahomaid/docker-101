@@ -1,0 +1,7 @@
+The first thing you do is run run Hello World!!
+
+  docker run helloworld
+
+docker run command runs a container? a container is the thingy where you run your dockerized apps in.
+
+  
